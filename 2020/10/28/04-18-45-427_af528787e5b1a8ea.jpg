@@ -1,0 +1,201 @@
+
+
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebSite">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1.0">
+<meta name="viewport" content="width=device-width">
+<!-- <base href="https://biosmonthly.com/"> -->
+<meta itemprop="keywords" name="keywords" content="" />
+<meta itemprop="url" property="og:url" content="https://biosmonthly.com/404.php" />
+<meta itemprop="name" property="og:title" content="BIOS monthly">
+<meta name="description" itemprop="description" property="og:description" content="關注電影、音樂、文學、設計及更多，相信生活是一場永恆的創作。我們在意閱讀時獨特的心靈運動，提供選擇的可能。每隻滑鼠都是一座孤島，需求的慾望會把我們串連成群島。">
+<meta itemprop="author" name="author" content="BIOS monthly">
+<meta property="og:image" itemprop="image" content="https://biosmonthly.com/assets/images/fb_share.jpg">
+<link rel="shortcut icon" href="https://biosmonthly.com/assets/images/favicon.ico" type="image/x-icon" />
+<link href="https://biosmonthly.com/assets/css/superslides.css" rel="stylesheet" type="text/css">
+<link href="https://biosmonthly.com/assets/css/flickity.css" rel="stylesheet" type="text/css">
+<link href="https://biosmonthly.com/assets/css/jquery-ui.css" rel="stylesheet" type="text/css">
+<link href="https://biosmonthly.com/assets/css/style.css" rel="stylesheet" type="text/css">
+
+<title>BIOS monthly</title>
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+// ga('create', 'UA-24733469-13', 'auto', {'legacyCookieDomain': 'biosmonthly.com'});
+// ga('send', 'pageview');
+
+ga('create', 'UA-22189695-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=K5tBm1akKd60Y8" style="display:none" height="1" width="1" alt="" /></noscript>
+</head>
+
+<body class="loading">
+<div class="loader"></div>
+<div class="header-wrap">	<div class="header">
+		<a href="https://biosmonthly.com/"><div class="logo"></div></a>
+		<ul class="nav">
+			<span class="tabletM"></span>
+
+			<li>
+				<a href="https://biosmonthly.com/cover_story" onclick="ga('send', 'event', 'article', 'click', 'h_coverstory');">封面故事</a>
+								<span class="arrow"></span>
+				<ul>
+										<a href="https://biosmonthly.com/topic/10564" onclick="ga('send', 'event', 'article', 'click', 'h_covertab');"><li>安安，您做新聞？｜封面故事 2020 輯五</li></a>
+										<a href="https://biosmonthly.com/topic/10427" onclick="ga('send', 'event', 'article', 'click', 'h_covertab');"><li>反正我很閒｜封面故事 2020 輯四</li></a>
+										<a href="https://biosmonthly.com/topic/10346" onclick="ga('send', 'event', 'article', 'click', 'h_covertab');"><li>賴品妤｜封面故事 2020 輯三</li></a>
+										<a href="https://biosmonthly.com/topic/10312" onclick="ga('send', 'event', 'article', 'click', 'h_covertab');"><li>林予晞｜封面故事 2020 輯二</li></a>
+										<a href="https://biosmonthly.com/topic/10222" onclick="ga('send', 'event', 'article', 'click', 'h_covertab');"><li>魏如萱｜封面故事 2020 輯一</li></a>
+									</ul>
+							</li>
+			<li><a href="https://biosmonthly.com/interview" onclick="ga('send', 'event', 'article', 'click', 'h_interview');">人物專訪</a></li>
+			<li>
+				<a href="https://biosmonthly.com/editors_pick" onclick="ga('send', 'event', 'article', 'click', 'h_pick');">編輯推薦</a>
+								<span class="arrow"></span>
+				<ul>
+										<a href="https://biosmonthly.com/article_list/9" onclick="ga('send', 'event', 'article', 'click', 'h_picktab');"><li>BIOS 發現</li></a>
+										<a href="https://biosmonthly.com/article_list/10" onclick="ga('send', 'event', 'article', 'click', 'h_picktab');"><li>BIOS 閱讀</li></a>
+										<a href="https://biosmonthly.com/article_list/11" onclick="ga('send', 'event', 'article', 'click', 'h_picktab');"><li>BIOS 影劇</li></a>
+										<a href="https://biosmonthly.com/article_list/12" onclick="ga('send', 'event', 'article', 'click', 'h_picktab');"><li>BIOS 音樂</li></a>
+									</ul>
+							</li>
+			<li>
+				<a href="https://biosmonthly.com/feature" onclick="ga('send', 'event', 'article', 'click', 'h_feature');">主題企劃</a>
+								<span class="arrow"></span>
+				<ul>
+										<a href="https://biosmonthly.com/topic/10464" onclick="ga('send', 'event', 'article', 'click', 'h_featuretab');"><li>港台很熟嗎</li></a>
+										<a href="https://biosmonthly.com/topic/10463" onclick="ga('send', 'event', 'article', 'click', 'h_featuretab');"><li>歌壇新爸</li></a>
+										<a href="https://biosmonthly.com/topic/10401" onclick="ga('send', 'event', 'article', 'click', 'h_featuretab');"><li>寺山修司《少女詩集》</li></a>
+									</ul>
+				
+			</li>
+			<li><a href="https://biosmonthly.com/column" onclick="ga('send', 'event', 'article', 'click', 'h_column');">作者專文</a></li>
+
+			<li class="search-btn onlypc"></li>
+			<div class="tabletM">
+				<ul>
+					<a href="https://www.facebook.com/biosmonthly/?ref=ts&amp;fref=ts" target="_blank"><li class="fb"></li></a>
+					<a href="https://www.instagram.com/bios_monthly/" target="_blank"><li class="ig"></li></a>
+					<a href="https://line.me/R/ti/p/%40bios_monthly" target="_blank"><li class="line"></li></a>
+				</ul>
+				<ul>
+					<li><a href="https://biosmonthly.com/about">關於我們</a></li>
+					<li><a href="https://biosmonthly.com/announcement">最新公告</a></li>
+					<li><a href="https://biosmonthly.com/copyright">版權聲明</a></li>
+					<li>&copy; 2020 BIOS MONTHLY</li>
+				</ul>
+			</div>
+		</ul>
+		<div class="menu-btn tabletM">
+			<span></span>
+			<span></span>
+		</div>
+		<div class="search-btn tabletM"></div>
+	</div>
+	<div class="search-wrap">
+		<div class="search-box">
+			<input id="search-text" type="text">
+			<button id="search-submit" type="submit"></button>
+			<div class="search-close">
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+		<div class="search-words">
+			<div class="title pcTablet">熱門搜尋</div>
+						<a href="https://biosmonthly.com/search/keyword/周東彥《霧中》">周東彥《霧中》</a>
+						<a href="https://biosmonthly.com/search/keyword/現代愛情">現代愛情</a>
+						<a href="https://biosmonthly.com/search/keyword/Podcast：地方の文氓">Podcast：地方の文氓</a>
+						<a href="https://biosmonthly.com/search/keyword/方君竹">方君竹</a>
+						<a href="https://biosmonthly.com/search/keyword/劉致昕">劉致昕</a>
+					</div>
+	</div>
+</div>
+
+
+	<div class="medium-content not-found">
+		<h2>【稍待我們一下】</h2>
+		<p>不好意思！BIOS monthly 網站臨時遇到了些問題維修中，預計今天稍晚就可以重新與你相見囉。稍等一下，讓我們精心製作的內容更完整地呈現給你。</p>
+	</div>
+
+	
+	<div class="top-wrap"><div class="back-to-top"></div></div>
+		<div class="footer ">
+			<div class="inner">
+				<div>
+					<ul>
+						<li><a href="https://biosmonthly.com/about">關於我們</a></li>
+						<li><a href="https://biosmonthly.com/announcement">最新公告</a></li>
+						<li><a href="https://biosmonthly.com/copyright">版權聲明</a></li>
+					</ul>
+				</div>
+				<div class="footer-logo">
+					<a href="./"><img src="https://biosmonthly.com/assets/images/img-bios-logo.png" alt="logo"></a>
+				</div>
+				<div class="onlym">&copy; 2020 BIOS MONTHLY</div>
+				<div>
+					<ul>
+						<a href="https://www.facebook.com/biosmonthly/?ref=ts&amp;fref=ts" target="_blank"><li class="fb"></li></a>
+						<a href="https://www.instagram.com/bios_monthly/" target="_blank"><li class="ig"></li></a>
+						<a href="https://line.me/R/ti/p/%40bios_monthly" target="_blank"><li class="line"></li></a>
+						<li>&copy; 2020 BIOS MONTHLY</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+</body>
+
+<!-- Java Script -->
+<script src="https://biosmonthly.com/assets/js/jquery-2.1.4.min.js"></script>
+<script src="//s3-ap-northeast-1.amazonaws.com/justfont-user-script/jf-40414.js"></script>
+<script src="https://biosmonthly.com/assets/js/jquery.superslides.js"></script>
+<script src="https://biosmonthly.com/assets/js/flickity.pkgd.min.js"></script>
+<script src="https://biosmonthly.com/assets/js/jquery-ui.min.js"></script>
+<script src="https://biosmonthly.com/assets/js/jquery.lazy.min.js"></script>
+<script src="https://biosmonthly.com/assets/js/jquery.touchSwipe.min.js"></script>
+<script src="https://biosmonthly.com/assets/js/main.js"></script>
+
+
+<script>
+	function getDocumentHeight() {
+		return Math.max(
+			Math.max(document.body.scrollHeight, document.documentElement.scrollHeight),
+			Math.max(document.body.offsetHeight, document.documentElement.offsetHeight),
+			Math.max(document.body.clientHeight, document.documentElement.clientHeight)
+		);
+	}
+	$.ajaxSetup({
+		data: {
+			'X_CSRF_TOKEN': '0493b8bba2f928aa0f5ed20cd928512914bb112d'
+		}
+	});
+</script>
+
+
+<script type="text/javascript">$(function(){
+
+	$('#search-submit').click(function(e){
+		var content = $('#search-text').val();
+		if (content != ''){
+			location.href = "https://biosmonthly.com/search/keyword/"+encodeURI($('#search-text').val());
+		}
+	});
+	$('#search-text').keypress(function(e){
+		if(e.which == 13 && $('#search-text').val() != ''){
+			location.href = "https://biosmonthly.com/search/keyword/"+encodeURI($('#search-text').val());
+		}
+	});
+});</script>
+</html>
